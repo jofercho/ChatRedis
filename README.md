@@ -1,3 +1,4 @@
 # ChatRedis
 
-testing a change 3
+testing a change in branch test/slash
+
